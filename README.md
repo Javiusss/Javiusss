@@ -1,15 +1,11 @@
-<h1 align="center">Hola 👋, soy Javier Caro</h1>
-<h3 align="center">Desarrollador frontend y Consultor Financiero en Sage ERP de Buenos Aires</h3>
+<h1 align="lef">Hola 👋, soy Javier Caro</h1>
+<h3 align="lef">Desarrollador frontend y Consultor Financiero en Sage ERP de Buenos Aires</h3>
 
-- 🌱 Actualmente estoy aprendiendo **HTML,CSS, Javascript y ReactJS**
+- 👨‍💻 Todos mis proyectos están disponibles en [www.javiusss.com](www.javiusss.com)
 
-- 👨‍💻 Todos mis proyectos están disponibles en [www.javiusss.gmail.com](www.javiusss.gmail.com)
+- 💬 Pregúntame sobre **HTML,CSS, Javascript y ReactJS o SAGE ERP**
 
-- 💬 Pregúntame sobre **HTML, CSS, Javascript y ReactJS o SAGE ERP**
-
-- 📫 Cómo contactarme **javiercaro1989@gmail.com**
-
-- 📄 Conoce mis experiencias [www.linkedin.com/in/javiusss](www.linkedin.com/in /javiusss)
+- 📫 Cómo contactarme **javiercaro1989@gmail. com**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
